@@ -8,7 +8,7 @@ Projeto feito apenas com HTML5 e um pouco de CSS3, para o desafio da formação 
 </p> 
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20ANDAMENTO&color=YELLOW&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=YELLOW&style=for-the-badge"/>
 </p>
 
 ***
