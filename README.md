@@ -20,20 +20,16 @@ Projeto feito apenas com HTML5 e um pouco de CSS3, para o desafio da formação 
 ***
 ## 📷 Imagens do projeto: 
 <p align ="center">
- <img src ="" width =""/>
+ <img src ="https://github.com/DiegoMaiaSantos/imagens-projetos-variados/blob/main/formacao-html-img/page-desafio-tres-01.jpg" width =""/>
  </p>
  
  <p align ="center">
- <img src ="" width =""/>
+ <img src ="https://github.com/DiegoMaiaSantos/imagens-projetos-variados/blob/main/formacao-html-img/page-desafio-tres-02.jpg" width =""/>
  </p>
   
  <p align ="center">
- <img src ="" width =""/>
- </p>
-  
- <p align ="center">
- <img src ="" width =""/>
- </p>
+ <img src ="https://github.com/DiegoMaiaSantos/imagens-projetos-variados/blob/main/formacao-html-img/page-desafio-tres-03.jpg" width =""/>
+ </p> 
 
 ***
 ## ☑️ Tecnologias e Ferramentas: 
